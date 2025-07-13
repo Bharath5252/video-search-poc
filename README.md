@@ -32,7 +32,7 @@ A Python proof-of-concept for video search using transcript-based semantic simil
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bharath5252/video-search-poc.git
    cd video_search_poc
    ```
 
